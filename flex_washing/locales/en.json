@@ -1,0 +1,53 @@
+{
+   "error": {
+      "cant_wash_that_much": "Ik kan niet zo veel dragen...",
+      "not_enough_blackmoney": "Je hebt niet genoeg zwart geld bij...",
+      "scammed": "Sh**t ze zijn met je geld gaan lopen! Ga er snel achter, dood hem en neem je geld weer!"
+   },
+   "success": {
+      "money_washed": "Alstu, je geld is gewassen!",
+      "pickedup_money": "Je hebt je geld weer kunnen pakken!"
+   },
+   "progress": {
+   },
+   "info": {
+      "not_at_this_time": "Der is niemand thuis...",
+      "come_take_money": "Kom je geld maar halen!",
+      "get_in_contact": "Er zal zodadelijk iemand je de locatie sturen via je mail"
+   },
+   "target": {
+      "talk": "Praten..",
+      "knock": "Aankloppen..",
+      "ask_for_money": "Vraag voor je gewassen geld..",
+      "grab_money": "Geld nemen..."
+   },
+   "dialog": {
+      "enter_washamount": {
+         "title": "Hoeveel wil je wassen? (Max %s)",
+         "amount": "Hoeveelheid"
+      }
+   },
+   "blip": {
+      "pickup_lock": "Ophaalocatie"
+   },
+   "mail": {
+      "door": {
+         "start": {
+            "sender": "Anoniemuis",
+            "subject": "Wassen",
+            "message": "Zodra je geld bij de juiste persoon is en die je geld heeft gewassen, stuur ik je een mail met locatie door!"
+         }
+      },
+      "fail": {
+         "lost_money": {
+            "sender": "Anoniemuis",
+            "subject": "Was me da?",
+            "message": "Ze zijn toch ni echt me u geld gaan lope he..? Ach ja niet mijn probleem..."
+         }
+      }
+   },
+   "discord": {
+      "iswashingmoney": "%s is %s zwart geld aan het wassen",
+      "gotmoney": "%s heeft %s geld gekregen"
+   }
+}
