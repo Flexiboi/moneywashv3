@@ -1,5 +1,5 @@
 local missions = {}
-local WEBHOOK_URL = 'https://discord.com/api/webhooks/1450851574472511639/L7xh7l3KSVYztvv09OqUKJyRnlUNt0XR-95nXc0g5T5ClJ0Cs18UxnyojO65ZxnGh05W'
+local WEBHOOK_URL = ''
 
 local function SendWebhook(title, description)
     if WEBHOOK_URL == "" or WEBHOOK_URL == nil then return end
